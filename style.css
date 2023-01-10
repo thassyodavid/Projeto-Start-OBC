@@ -71,6 +71,7 @@ body {
     font-size: 14px;
     display: block;
     margin: 40px auto;
+    color: black;
     background-color: var(--button-color);
     border-radius: 25px;
     padding: 10px;
