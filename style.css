@@ -16,8 +16,8 @@ body {
 }
 
 #container{
-    height: 630px;
-    width: 420px;
+    height: 610px;
+    width: 390px;
     margin: 50px auto;
     background: var(--secondary-color);
     box-shadow: 3px 3px 3px rgb(32, 32, 32);
